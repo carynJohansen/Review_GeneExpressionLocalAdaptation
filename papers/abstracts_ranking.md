@@ -1,7 +1,6 @@
-### Title
-The Molecular Diversity of Adaptive Convergence
+## The Molecular Diversity of Adaptive Convergence
 
-Tenaillon, O., Rodríguez-Verdugo, A., Gaut, R.L., McDonald, P., Bennett, A.F., Long, A.D. and Gaut, B.S., 2012. The molecular diversity of adaptive convergence. Science, 335(6067), pp.457-461.
+**citation** Tenaillon, O., Rodríguez-Verdugo, A., Gaut, R.L., McDonald, P., Bennett, A.F., Long, A.D. and Gaut, B.S., 2012. The molecular diversity of adaptive convergence. Science, 335(6067), pp.457-461.
 
 ### Abstract
 To estimate the number and diversity of beneficial mutations, we experimentally evolved 115 populations of Escherichia coli to 42.2°C for 2000 generations and sequenced one genome from each population. We identified 1331 total mutations, affecting more than 600 different sites. Few mutations were shared among replicates, but a strong pattern of convergence emerged at the level of genes, operons, and functional complexes. Our experiment uncovered a set of primary functional targets of high temperature, but we estimate that many other beneficial mutations could contribute to similar adaptive outcomes. We inferred the pervasive presence of epistasis among beneficial mutations, which shaped adaptive trajectories into at least two distinct pathways involving mutations either in the RNA polymerase complex or the termination factor rho.
