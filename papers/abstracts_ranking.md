@@ -52,6 +52,8 @@ population genomics, environmental change, adaptation plasticity, evolutionary p
 
 Lacking:
 
+---
+
 ## The genetic differentiation at quantitative trait loci under local adaptation
 
 Le Corre, V. and Kremer, A., 2012. The genetic differentiation at quantitative trait loci under local adaptation. Molecular ecology, 21(7), pp.1548-1566.
@@ -62,6 +64,8 @@ Most adaptive traits are controlled by large number of genes that may all togeth
 Keywords: Fst, FSTQ, local adaptation, Qst, quantitative traits, selected loci
 
 Lacking:
+
+---
 
 ## Spatiotemporal microbial evolution on antibiotic landscapes
 
@@ -74,6 +78,8 @@ Keywords:
 
 Lacking:
 
+---
+
 ## Limits fo adaptation along environmental gradients
 
 Polechová, J. and Barton, N.H., 2015. Limits to adaptation along environmental gradients. Proceedings of the National Academy of Sciences, 112(20), pp.6401-6406.
@@ -82,6 +88,8 @@ Polechová, J. and Barton, N.H., 2015. Limits to adaptation along environmental 
 Why do species not adapt to ever-wider ranges of conditions, gradually expanding their ecological niche and geographic range? Gene flow across environments has two conflicting effects: although it increases genetic variation, which is a prerequisite for adaptation, gene flow may swamp adaptation to local conditions. In 1956, Haldane proposed that, when the environment varies across space, "swamping" by gene flow creates a positive feedback between low population size and maladaptation, leading to a sharp range margin. However, current deterministic theory shows that, when variance can evolve, there is no such limit. Using simple analytical tools and simulations, we show that genetic drift can generate a sharp margin to a species' range, by reducing genetic variance below the level needed for adaptation to spatially variable conditions. Aided by separation of ecological and evolutionary timescales, the identified effective dimensionless parameters reveal a simple threshold that predicts when adaptation at the range margin fails. Two observable parameters determine the threshold: (i) the effective environmental gradient, which can be measured by the loss of fitness due to dispersal to a different environment; and (ii) the efficacy of selection relative to genetic drift. The theory predicts sharp range margins even in the absence of abrupt changes in the environment. Furthermore, it implies that gradual worsening of conditions across a species' habitat may lead to a sudden range fragmentation, when adaptation to a wide span of conditions within a single species becomes impossible. 
 
 keywords: genetic drift, genetic variation, heterogeneous environments, range margin, species' range
+
+---
 
 ## The effect of genetic and environmental variation on metabolic gene expression
 
