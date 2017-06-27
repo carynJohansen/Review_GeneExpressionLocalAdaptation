@@ -20,8 +20,14 @@ In this study, the authors were attempting to demonstrate the extent to which ph
 * how do they know that their strains aren't doing horizontal gene transfer during the fitness assay?
 * Since they were unable to identify the Ara+ mutation, does that imply that the mutation was non-genic? And thus, unable to be directly identified with transcriptomic approaches. Or are there big blind spots in macro arrays? I don't know anything about macroarrays.
 * This is potentially a nice example of the limit to RNA-Seq approaches - we can only ID within gene mutations, and only see the result of non-genic changes.
+* They say parallel evoltuion... why is this not convergent evolution? Is this language that has changed recently? 
+   * Perhaps not convergent because they had different ancestors?
+* They do a poor job at talking about Ara- vs Ara+ and which of the stains contributed to the populations they created. Did they mix them? Generate 6 or some other number of new populations from each? Did the _spoT_ mutations preferentially arise in one genotype over the other?
 
-Lacking:
+**Other notes**
+
+* highlight gene expression as a trait
+* it's not genetic incompatibility, but the beneficial allele has no beneficial impact on the other population without _spoT_ mutations. The background epistatic interactions matter here - plopping a beneficial allele without support does not always result in a beneficial phenotype.
 
 
 ## The Molecular Diversity of Adaptive Convergence
