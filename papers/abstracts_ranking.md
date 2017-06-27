@@ -11,11 +11,8 @@ Convergent evolution, independent mutation
 **Lacking:** 
 not directly about gene expression
 
-<<<<<<< HEAD
-=======
 ---
 
->>>>>>> 734c568bfb0966c23ef4f4da826530874fa68033
 ## Evaluating the role of natural selection in the evolution of gene regulation
 
 > Fay, J.C. and Wittkopp, P.J., 2008. Evaluating the role of natural selection in the evolution of gene regulation. Heredity, 100(2), pp.191-199.
