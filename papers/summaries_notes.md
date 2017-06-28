@@ -29,6 +29,47 @@ In this study, the authors were attempting to demonstrate the extent to which ph
 * highlight gene expression as a trait
 * it's not genetic incompatibility, but the beneficial allele has no beneficial impact on the other population without _spoT_ mutations. The background epistatic interactions matter here - plopping a beneficial allele without support does not always result in a beneficial phenotype.
 
+---
+
+## Spatiotemporal microbial evolution on antibiotic landscapes
+
+Baym, M., Lieberman, T.D., Kelsic, E.D., Chait, R., Gross, R., Yelin, I. and Kishony, R., 2016. Spatiotemporal microbial evolution on antibiotic landscapes. Science, 353(6304), pp.1147-1151.
+
+### Abstract
+A key aspect of bacterial survival is the ability to evolve while migrating across spatially varying environmental challenges. Laboratory experiments, however, often study evolution in well-mixed systems. Here, we introduce an experimental device, the microbial evolution and growth arena (MEGA)–plate, in which bacteria spread and evolved on a large antibiotic landscape (120 × 60 centimeters) that allowed visual observation of mutation and selection in a migrating bacterial front. While resistance increased consistently, multiple coexisting lineages diversified both phenotypically and genotypically. Analyzing mutants at and behind the propagating front, we found that evolution is not always led by the most resistant mutants; highly resistant mutants may be trapped behind more sensitive lineages. The MEGA-plate provides a versatile platform for studying microbial adaption and directly visualizing evolutionary dynamics.
+
+Keywords: antibiotic resistance, adaptation, evolution
+
+---
+
+## The role of gene expression in ecological speciation
+
+Pavey, S.A., Collin, H., Nosil, P. and Rogers, S.M., 2010. The role of gene expression in ecological speciation. Annals of the New York Academy of Sciences, 1206(1), pp.110-129.
+
+### Abstract
+Ecological speciation is the process by which barriers to gene flow between populations evolve due to adaptive divergence via natural selection. A relatively unexplored area in ecological speciation is the role of gene expression. Gene expression may be associated with ecologically important phenotypes not evident from morphology and play a role during colonization of new environments. Here we review two potential roles of gene expression in ecological speciation: (1) its indirect role in facilitating population persistence and (2) its direct role in contributing to genetically based reproductive isolation. We find indirect evidence that gene expression facilitates population persistence, but direct tests are lacking. We also find clear examples of gene expression having effects on phenotypic traits and adaptive genetic divergence, but links to the evolution of reproductive isolation itself remain indirect. Gene expression during adaptive divergence seems to often involve complex genetic architectures controlled by gene networks, regulatory regions, and “eQTL hotspots.” Nonetheless, we review how approaches for isolating the functional mutations contributing to adaptive divergence are proving to be successful. The study of gene expression has promise for increasing our understanding ecological speciation, particularly when integrative approaches are applied.
+
+---
+
+## Topological features of a gene co-expression network predict patterns of natural diversity in environmental response
+
+Des Marais, D.L., Guerrero, R.F., Lasky, J.R. and Scarpino, S.V., 2017, June. Topological features of a gene co-expression network predict patterns of natural diversity in environmental response. In Proc. R. Soc. B (Vol. 284, No. 1856, p. 20170914). The Royal Society.
+
+### Abstract
+Molecular interactions affect the evolution of complex traits. For instance, adaptation may be constrained by pleiotropic or epistatic effects, both of which can be reflected in the structure of molecular interaction networks. To date, empirical studies investigating the role of molecular interactions in phenotypic evolution have been idiosyncratic, offering no clear patterns. Here, we investigated the network topology of genes putatively involved in local adaptation to two abiotic stressors—drought and cold—in Arabidopsis thaliana. Our findings suggest that the gene-interaction topologies for both cold and drought stress response are non-random, with genes that show genetic variation in drought expression response (eGxE) being significantly more peripheral and cold response genes being significantly more central than genes which do not show GxE. We suggest that the observed topologies reflect different constraints on the genetic pathways involved in environmental response. The approach presented here may inform predictive models linking genetic variation in molecular signalling networks with phenotypic variation, specifically traits involved in environmental response.
+
+Keywords: gene by environmental interaction, gene regulatory network, Arabidopsis thaliana, abiotic stress, drought, cold
+
+---
+
+## Signatures of local adaptation in lowland and highland teosintes from whole‐genome sequencing of pooled samples
+
+Fustier, M.A., Brandenburg, J.T., Boitard, S., Lapeyronnie, J., Eguiarte, L.E., Vigouroux, Y., Manicacci, D. and Tenaillon, M.I., 2017. Signatures of local adaptation in lowland and highland teosintes from whole‐genome sequencing of pooled samples. Molecular Ecology, 26(10), pp.2738-2756.
+
+### Abstract
+Spatially varying selection triggers differential adaptation of local populations. Here, we mined the determinants of local adaptation at the genomewide scale in the two closest maize wild relatives, the teosintes Zea mays ssp parviglumis and ssp. mexicana. We sequenced 120 individuals from six populations: two lowland, two intermediate and two highland populations sampled along two altitudinal gradients. We detected 8,479,581 single nucleotide polymorphisms (SNPs) covered in the six populations with an average sequencing depth per site per population ranging from 17.03 to 32.23. Population diversity varied from 0.10 to 0.15, and linkage disequilibrium decayed very rapidly. We combined two differentiation-based methods, and correlation of allele frequencies with environmental variables to detect outlier SNPs. Outlier SNPs displayed significant clustering. From clusters, we identified 47 candidate regions. We further modified a haplotype-based method to incorporate genotype uncertainties in haplotype calling, and applied it to candidate regions. We retrieved evidence for selection at the haplotype level in 53% of our candidate regions, and in 70% of the cases the same haplotype was selected in the two lowland or the two highland populations. We recovered a candidate region located within a previously characterized inversion on chromosome 1. We found evidence of a soft sweep at a locus involved in leaf macrohair variation. Finally, our results revealed frequent colocalization between our candidate regions and loci involved in the variation of traits associated with plant–soil interactions such as root morphology, aluminium and low phosphorus tolerance. Soil therefore appears to be a major driver of local adaptation in teosintes.
+
+---
 
 ## The Molecular Diversity of Adaptive Convergence
 
@@ -42,6 +83,15 @@ Convergent evolution, independent mutation
 
 **Lacking:** 
 not directly about gene expression
+
+---
+
+## Genetics of global gene expression
+
+Rockman, M.V. and Kruglyak, L., 2006. Genetics of global gene expression. Nature Reviews Genetics, 7(11), pp.862-872.
+
+### Abstract
+A new field of genetic analysis of global gene expression has emerged in recent years, driven by the realization that traditional techniques of linkage and association analysis can be applied to thousands of transcript levels measured by microarrays. Genetic dissection of transcript abundance has shed light on the architecture of quantitative traits, provided a new approach for connecting DNA sequence variation with phenotypic variation, and improved our understanding of transcriptional regulation and regulatory variation.
 
 ---
 
@@ -86,19 +136,6 @@ Lacking:
 
 ---
 
-## Spatiotemporal microbial evolution on antibiotic landscapes
-
-Baym, M., Lieberman, T.D., Kelsic, E.D., Chait, R., Gross, R., Yelin, I. and Kishony, R., 2016. Spatiotemporal microbial evolution on antibiotic landscapes. Science, 353(6304), pp.1147-1151.
-
-### Abstract
-A key aspect of bacterial survival is the ability to evolve while migrating across spatially varying environmental challenges. Laboratory experiments, however, often study evolution in well-mixed systems. Here, we introduce an experimental device, the microbial evolution and growth arena (MEGA)–plate, in which bacteria spread and evolved on a large antibiotic landscape (120 × 60 centimeters) that allowed visual observation of mutation and selection in a migrating bacterial front. While resistance increased consistently, multiple coexisting lineages diversified both phenotypically and genotypically. Analyzing mutants at and behind the propagating front, we found that evolution is not always led by the most resistant mutants; highly resistant mutants may be trapped behind more sensitive lineages. The MEGA-plate provides a versatile platform for studying microbial adaption and directly visualizing evolutionary dynamics.
-
-Keywords: 
-
-Lacking:
-
----
-
 ## Limits fo adaptation along environmental gradients
 
 Polechová, J. and Barton, N.H., 2015. Limits to adaptation along environmental gradients. Proceedings of the National Academy of Sciences, 112(20), pp.6401-6406.
@@ -120,17 +157,6 @@ What is the relationship between genetic or environmental variation and the vari
 Keywords: Fundulus heteroclitus, microarray, gene expression evolutionary genomics, genetic variation
 
 Lacking:
-
----
-
-## Topological features of a gene co-expression network predict patterns of natural diversity in environmental response
-
-Des Marais, D.L., Guerrero, R.F., Lasky, J.R. and Scarpino, S.V., 2017, June. Topological features of a gene co-expression network predict patterns of natural diversity in environmental response. In Proc. R. Soc. B (Vol. 284, No. 1856, p. 20170914). The Royal Society.
-
-### Abstract
-Molecular interactions affect the evolution of complex traits. For instance, adaptation may be constrained by pleiotropic or epistatic effects, both of which can be reflected in the structure of molecular interaction networks. To date, empirical studies investigating the role of molecular interactions in phenotypic evolution have been idiosyncratic, offering no clear patterns. Here, we investigated the network topology of genes putatively involved in local adaptation to two abiotic stressors—drought and cold—in Arabidopsis thaliana. Our findings suggest that the gene-interaction topologies for both cold and drought stress response are non-random, with genes that show genetic variation in drought expression response (eGxE) being significantly more peripheral and cold response genes being significantly more central than genes which do not show GxE. We suggest that the observed topologies reflect different constraints on the genetic pathways involved in environmental response. The approach presented here may inform predictive models linking genetic variation in molecular signalling networks with phenotypic variation, specifically traits involved in environmental response.
-
-Keywords: gene by environmental interaction, gene regulatory network, Arabidopsis thaliana, abiotic stress, drought, cold
 
 ---
 
@@ -196,15 +222,6 @@ A central goal of genetics is to understand the links between genetic variation 
 
 ---
 
-## Signatures of local adaptation in lowland and highland teosintes from whole‐genome sequencing of pooled samples
-
-Fustier, M.A., Brandenburg, J.T., Boitard, S., Lapeyronnie, J., Eguiarte, L.E., Vigouroux, Y., Manicacci, D. and Tenaillon, M.I., 2017. Signatures of local adaptation in lowland and highland teosintes from whole‐genome sequencing of pooled samples. Molecular Ecology, 26(10), pp.2738-2756.
-
-### Abstract
-Spatially varying selection triggers differential adaptation of local populations. Here, we mined the determinants of local adaptation at the genomewide scale in the two closest maize wild relatives, the teosintes Zea mays ssp parviglumis and ssp. mexicana. We sequenced 120 individuals from six populations: two lowland, two intermediate and two highland populations sampled along two altitudinal gradients. We detected 8,479,581 single nucleotide polymorphisms (SNPs) covered in the six populations with an average sequencing depth per site per population ranging from 17.03 to 32.23. Population diversity varied from 0.10 to 0.15, and linkage disequilibrium decayed very rapidly. We combined two differentiation-based methods, and correlation of allele frequencies with environmental variables to detect outlier SNPs. Outlier SNPs displayed significant clustering. From clusters, we identified 47 candidate regions. We further modified a haplotype-based method to incorporate genotype uncertainties in haplotype calling, and applied it to candidate regions. We retrieved evidence for selection at the haplotype level in 53% of our candidate regions, and in 70% of the cases the same haplotype was selected in the two lowland or the two highland populations. We recovered a candidate region located within a previously characterized inversion on chromosome 1. We found evidence of a soft sweep at a locus involved in leaf macrohair variation. Finally, our results revealed frequent colocalization between our candidate regions and loci involved in the variation of traits associated with plant–soil interactions such as root morphology, aluminium and low phosphorus tolerance. Soil therefore appears to be a major driver of local adaptation in teosintes.
-
----
-
 ## Extensive Sex-Specific Nonadditivity of Gene Expression in _Drosophila melanogaster_
 
 Gibson, G., Riley-Berger, R., Harshman, L., Kopp, A., Vacha, S., Nuzhdin, S. and Wayne, M., 2004. Extensive sex-specific nonadditivity of gene expression in Drosophila melanogaster. Genetics, 167(4), pp.1791-1799.
@@ -222,14 +239,6 @@ Van Heerwaarden, J., Doebley, J., Briggs, W.H., Glaubitz, J.C., Goodman, M.M., G
 ### Abstract
 The last two decades have seen important advances in our knowledge of maize domestication, thanks in part to the contributions of genetic data. Genetic studies have provided firm evidence that maize was domesticated from Balsas teosinte (Zea mays subspecies parviglumis), a wild relative that is endemic to the mid- to lowland regions of southwestern Mexico. An interesting paradox remains, however: Maize cultivars that are most closely related to Balsas teosinte are found mainly in the Mexican highlands where subspecies parviglumis does not grow. Genetic data thus point to primary diffusion of domesticated maize from the highlands rather than from the region of initial domestication. Recent archeological evidence for early lowland cultivation has been consistent with the genetics of domestication, leaving the issue of the ancestral position of highland maize unresolved. We used a new SNP dataset scored in a large number of accessions of both teosinte and maize to take a second look at the geography of the earliest cultivated maize. We found that gene flow between maize and its wild relatives meaningfully impacts our inference of geographic origins. By analyzing differentiation from inferred ancestral gene frequencies, we obtained results that are fully consistent with current ecological, archeological, and genetic data concerning the geography of early maize cultivation.
 
----
-
-## The role of gene expression in ecological speciation
-
-Pavey, S.A., Collin, H., Nosil, P. and Rogers, S.M., 2010. The role of gene expression in ecological speciation. Annals of the New York Academy of Sciences, 1206(1), pp.110-129.
-
-### Abstract
-Ecological speciation is the process by which barriers to gene flow between populations evolve due to adaptive divergence via natural selection. A relatively unexplored area in ecological speciation is the role of gene expression. Gene expression may be associated with ecologically important phenotypes not evident from morphology and play a role during colonization of new environments. Here we review two potential roles of gene expression in ecological speciation: (1) its indirect role in facilitating population persistence and (2) its direct role in contributing to genetically based reproductive isolation. We find indirect evidence that gene expression facilitates population persistence, but direct tests are lacking. We also find clear examples of gene expression having effects on phenotypic traits and adaptive genetic divergence, but links to the evolution of reproductive isolation itself remain indirect. Gene expression during adaptive divergence seems to often involve complex genetic architectures controlled by gene networks, regulatory regions, and “eQTL hotspots.” Nonetheless, we review how approaches for isolating the functional mutations contributing to adaptive divergence are proving to be successful. The study of gene expression has promise for increasing our understanding ecological speciation, particularly when integrative approaches are applied.
 
 ---
 
@@ -340,15 +349,6 @@ Aguirre‐Liguori, J.A., Tenaillon, M.I., Vázquez‐Lobo, A., Gaut, B.S., Jaram
 
 ### Abstract
 The central-abundance hypothesis predicts that local adaptation is a function of the distance to the center of a species’ geographic range. To test this hypothesis, we gathered genomic diversity data from 49 populations, 646 individuals and 33,464 SNPs of two wild relatives of maize, the teosintes Zea mays ssp. parviglumis and Zea. mays. ssp. mexicana. We examined the association between the distance to their climatic and geographic centroids and the enrichment of SNPs bearing signals of adaptation. We identified candidate adaptive SNPs in each population by combining neutrality tests and cline analyzes. By applying linear regression models, we found that the number of candidate SNPs is positively associated with niche suitability, while genetic diversity is reduced at the limits of the geographic distribution. Our results suggest that overall, populations located at the limit of the species’ niches are adapting locally. We argue that local adaptation to this limit could initiate ecological speciation processes and facilitate adaptation to global change.
-
----
-
-## Genetics of global gene expression
-
-Rockman, M.V. and Kruglyak, L., 2006. Genetics of global gene expression. Nature Reviews Genetics, 7(11), pp.862-872.
-
-### Abstract
-A new field of genetic analysis of global gene expression has emerged in recent years, driven by the realization that traditional techniques of linkage and association analysis can be applied to thousands of transcript levels measured by microarrays. Genetic dissection of transcript abundance has shed light on the architecture of quantitative traits, provided a new approach for connecting DNA sequence variation with phenotypic variation, and improved our understanding of transcriptional regulation and regulatory variation.
 
 ---
 
