@@ -40,6 +40,28 @@ A key aspect of bacterial survival is the ability to evolve while migrating acro
 
 Keywords: antibiotic resistance, adaptation, evolution
 
+### Summary
+There have been lots of studies on adaptive evolution to single and multi-drug environments, but little is known about how bacteria migrate between different environments/spatially distinct regions. Spatially structured environments change the nature of selection - an individual is suddenly not competing with neighbors for resources, just attempting to survive in a new environment. **"It is unknown how evolution is shaped by the diversification potential and differences in adaptive constraints of large populations in spatial environments.** Here, they designed a protocol to test the evolution of bacteria in one such spatially structured environments. Initially, the MEGA-plate is set up with an increasing gradient of antibiotic steps. Bacteria challeneged in a spatial gradient of antibiotics developed resistance in **sequential adaptive steps**. Also, the lineages competed with each other for space - only lineages at the edge of the environment had the opportunity to press forward and adapt, where another lineage that have been blocked in by a competing lineage, which perhaps had the mutational capacity to adapt was not presented with the opportunity to. They also tested the **importance of the size of intermediate steps** by setting up less of a gradient with a large antibiotic jump. They saw that if the jump was too large, then bacteria were unable to adapt. **The rate of evolution was dependent on the intensity of the intermediate step.** Also, while they commonly saw repeated mutations in genes classically associated with antibiotic resistance (_folA_), they also saw repeated mutations in genes not classically associated with antibiotic resistance (_aroK_, _mgrB_, _pitA_). Mutations that enabled a lineage to break into the new antibiotic gradient often were associated with reduced growth. Because of the spatial constraints, there is an interesting phenomena where lineages that are spatially trapped within one environment are also able to compete when moved to the edge of the environment. **The fitness of the population is not driven by the fittest mutants** but just the mutants that are sufficient and happen to be at the edge. 
+
+**Questions:**
+
+* what is "evolutionary rescue"?
+* I think the size of the intermediate step is not a new concept, but this is a nice visualization.
+* They observe that mutations that increased the antibiotic resistance is at the cost of reduced growth but they don't show that by growing those lineages in normal conditions. (Maybe someone else does?)
+  * It makes sense that a lineage would still be stressed in a new environment - resistance enables it to survive, but it does not necessarily thrive.
+  * subsequent mutations will decrease the stress by adapting to it, increasing the resistance to the new environmental conditions.
+* Can you measure the mutational load (is that the right phrase?) of the populations at the edge? Here the edge is clear, but in a valley system, the edges are not clear. So is the mutational load just the effective population mutational load?
+* _dnaQ_ was found the be mutation 6 independent times. This encodes a DNA polymerase that proofreads DNA replication, and the mutations reduced the function. Is the impllication that increased mutation rate could be adaptive? 
+  * They did observe that lines with _dnaQ_ mutations did have more mutations overall, but they had the same phenotypic change.
+  * Does that imply that there are multiple methods by which the organism change increase the chances that it has an adaptive mutation, and one of them is mildly messing with DNA replication?
+  * But since this wasn't the only method, and it didn't seem to confer a lot of adaptive advantage, what are the others? And does this have deletereous effects (how could it not?)?
+
+**Notes:**
+
+* This is a really beautiful set up to study evolution in action, and parallel/convergent evolution to a shared environment. Will need to watch for future papers from this group.
+* I hope they do pathway analysis of adaptation. They implied they will.
+
+
 ---
 
 ## The role of gene expression in ecological speciation
@@ -68,6 +90,15 @@ Fustier, M.A., Brandenburg, J.T., Boitard, S., Lapeyronnie, J., Eguiarte, L.E., 
 
 ### Abstract
 Spatially varying selection triggers differential adaptation of local populations. Here, we mined the determinants of local adaptation at the genomewide scale in the two closest maize wild relatives, the teosintes Zea mays ssp parviglumis and ssp. mexicana. We sequenced 120 individuals from six populations: two lowland, two intermediate and two highland populations sampled along two altitudinal gradients. We detected 8,479,581 single nucleotide polymorphisms (SNPs) covered in the six populations with an average sequencing depth per site per population ranging from 17.03 to 32.23. Population diversity varied from 0.10 to 0.15, and linkage disequilibrium decayed very rapidly. We combined two differentiation-based methods, and correlation of allele frequencies with environmental variables to detect outlier SNPs. Outlier SNPs displayed significant clustering. From clusters, we identified 47 candidate regions. We further modified a haplotype-based method to incorporate genotype uncertainties in haplotype calling, and applied it to candidate regions. We retrieved evidence for selection at the haplotype level in 53% of our candidate regions, and in 70% of the cases the same haplotype was selected in the two lowland or the two highland populations. We recovered a candidate region located within a previously characterized inversion on chromosome 1. We found evidence of a soft sweep at a locus involved in leaf macrohair variation. Finally, our results revealed frequent colocalization between our candidate regions and loci involved in the variation of traits associated with plant–soil interactions such as root morphology, aluminium and low phosphorus tolerance. Soil therefore appears to be a major driver of local adaptation in teosintes.
+
+---
+
+## Predictable convergence in hemoglobin function has unpredictable molecular underpinnings
+
+Natarajan, C., Hoffmann, F.G., Weber, R.E., Fago, A., Witt, C.C. and Storz, J.F., 2016. Predictable convergence in hemoglobin function has unpredictable molecular underpinnings. Science, 354(6310), pp.336-339.
+
+### Abstract 
+To investigate the predictability of genetic adaptation, we examined the molecular basis of convergence in hemoglobin function in comparisons involving 56 avian taxa that have contrasting altitudinal range limits. Convergent increases in hemoglobin-oxygen affinity were pervasive among high-altitude taxa, but few such changes were attributable to parallel amino acid substitutions at key residues. Thus, predictable changes in biochemical phenotype do not have a predictable molecular basis. Experiments involving resurrected ancestral proteins revealed that historical substitutions have context-dependent effects, indicating that possible adaptive solutions are contingent on prior history. Mutations that produce an adaptive change in one species may represent precluded possibilities in other species because of differences in genetic background.
 
 ---
 
