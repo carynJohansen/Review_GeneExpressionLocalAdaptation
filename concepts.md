@@ -1,6 +1,9 @@
 Purpose:
 
-This document is meant to detail the headers and major questions, and to assign papers I have read to those headers.
+This document is meant to detail the headers and major questions, and to assign papers I have read to those headers. 
+This is an active document.
+
+---
 
 ### Using gene expression profiles as a phenotypic trait, and as a high dimensional phenotype
 
