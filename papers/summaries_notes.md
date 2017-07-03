@@ -96,8 +96,7 @@ We are in a phase of unprecedented progress in identifying genetic loci that cau
 ### Summary
 
 The paper is basically attempting to review what we know and don't yet understand about 
-
-$$polymorphism \space -> \space expression \space -> physiological \space change \space -> \space disease$$
+**polymorphism -> expression -> physiological change -> disease**
 
 This is a review, and covered a broad range of topics about linking variaiton in the sequence of reglatory regions to final traits, here the instance of human disease. They define eQTLS and pQTL (or pQL depending), and eQTL are can be used to study the consequences of gene expression variation on organisms, and used to priotitize likely causal variants. The list of general topics this review covers is: **molecular basis of eQTLs, the genetics of mRNA vs protein levels, causal links between eQTL and higher-order phenotypes (with research examples), and role of eQTLs in human disease.** eQTLs are classified by their relative location and they type of mechanisms by which the eQTL influences other genes. There are **local eQTLs** which can be either or both **cis-acting** and/or **trans-acting**, and there are **distant eQTLs**, which are usually **trans-acting**. Distant eQTLs are difficult to detect for a variety of reasons: small LD blocks (results in lower statistical power), multiple haplotypes at each reason (thus low frequency of alleles), and low statistical power in due to small sample size coupled with many association tests necessary for association studies. Distant eQTLs tend to have smaller effect sizes, and they also explain a majority of heritability for human gene expression. They have been difficult to detect in humans compared to model organisms (b/c humans are outbreeding, probably). Also, the **effect size of distant eQTL is heavily influencd by the environment.**
 
