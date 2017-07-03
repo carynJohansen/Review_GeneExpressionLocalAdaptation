@@ -60,6 +60,7 @@ There have been lots of studies on adaptive evolution to single and multi-drug e
 
 * This is a really beautiful set up to study evolution in action, and parallel/convergent evolution to a shared environment. Will need to watch for future papers from this group.
 * I hope they do pathway analysis of adaptation. They implied they will.
+* They used whole-genome sequencing to identify mutations. 
 
 
 ---
@@ -70,6 +71,74 @@ Pavey, S.A., Collin, H., Nosil, P. and Rogers, S.M., 2010. The role of gene expr
 
 ### Abstract
 Ecological speciation is the process by which barriers to gene flow between populations evolve due to adaptive divergence via natural selection. A relatively unexplored area in ecological speciation is the role of gene expression. Gene expression may be associated with ecologically important phenotypes not evident from morphology and play a role during colonization of new environments. Here we review two potential roles of gene expression in ecological speciation: (1) its indirect role in facilitating population persistence and (2) its direct role in contributing to genetically based reproductive isolation. We find indirect evidence that gene expression facilitates population persistence, but direct tests are lacking. We also find clear examples of gene expression having effects on phenotypic traits and adaptive genetic divergence, but links to the evolution of reproductive isolation itself remain indirect. Gene expression during adaptive divergence seems to often involve complex genetic architectures controlled by gene networks, regulatory regions, and “eQTL hotspots.” Nonetheless, we review how approaches for isolating the functional mutations contributing to adaptive divergence are proving to be successful. The study of gene expression has promise for increasing our understanding ecological speciation, particularly when integrative approaches are applied.
+
+### Summary
+Ecological speciation is the process in which barriers to genetic exchange evolve between populations as a result of ecologically based divergent natural selection and occurs because diverging phenotypic traits or trait genetically correlated with diverging traits cause reproductive isolation. Gene expression might promote speciation by 1) indirectly promoting population persistence, 2) directly affective adaptive divergence in traits that cause reproductive isolation.
+
+**Questions:**
+
+* Does adaptation always equal divergence always equal speciation? I think no, because clearly in plants you have adaptation without speciation, and there is still hybrid compatability between different species. This review was written mainly with animals in mind, I think.
+* What definition of species are they using? 
+
+**Notes:**
+
+A useful review, but not relevant in terms of technology references (out of date at this point!), and it is focused on speciation which is not where I want to go. However, it has some potentially useful if a bit confusing language and theories about the role of gene expression in ecological speciation that may be helpful when only thinking about adaptation.
+
+---
+
+## The role of regulatory variation in complex traits and disease
+
+Albert, F.W. and Kruglyak, L., 2015. The role of regulatory variation in complex traits and disease. Nature Reviews Genetics, 16(4), pp.197-212.
+
+### Abstract
+We are in a phase of unprecedented progress in identifying genetic loci that cause variation in traits ranging from growth and fitness in simple organisms to disease in humans. However, a mechanistic understanding of how these loci influence traits is lacking for the majority of loci. Studies of the genetics of gene expression have emerged as a key tool for linking DNA sequence variation to phenotypes. Here, we review recent insights into the molecular nature of regulatory variants and describe their influence on the transcriptome and the proteome. We discuss conceptual advances from studies in model organisms and present examples of complete chains of causality that link individual polymorphisms to changes in gene expression, which in turn result in physiological changes and, ultimately, disease risk.
+
+### Summary
+
+The paper is basically attempting to review what we know and don't yet understand about 
+
+$$polymorphism \space -> \space expression \space -> physiological \space change \space -> \space disease$$
+
+This is a review, and covered a broad range of topics about linking variaiton in the sequence of reglatory regions to final traits, here the instance of human disease. They define eQTLS and pQTL (or pQL depending), and eQTL are can be used to study the consequences of gene expression variation on organisms, and used to priotitize likely causal variants. The list of general topics this review covers is: **molecular basis of eQTLs, the genetics of mRNA vs protein levels, causal links between eQTL and higher-order phenotypes (with research examples), and role of eQTLs in human disease.** eQTLs are classified by their relative location and they type of mechanisms by which the eQTL influences other genes. There are **local eQTLs** which can be either or both **cis-acting** and/or **trans-acting**, and there are **distant eQTLs**, which are usually **trans-acting**. Distant eQTLs are difficult to detect for a variety of reasons: small LD blocks (results in lower statistical power), multiple haplotypes at each reason (thus low frequency of alleles), and low statistical power in due to small sample size coupled with many association tests necessary for association studies. Distant eQTLs tend to have smaller effect sizes, and they also explain a majority of heritability for human gene expression. They have been difficult to detect in humans compared to model organisms (b/c humans are outbreeding, probably). Also, the **effect size of distant eQTL is heavily influencd by the environment.**
+
+**Molecular causality of _cis_-eQTL** - much of the variation at multiple genomic levels is due to _cis_-acting sequence differences that affect transcription factor binding. One study in humans showed that **indels rather than SNPs more likely to results in eQTL.** Variaiton at the TF-binding site correlate to TF binding and also: differential histone modifications, mRNA levels, DNA methylation - hence change at the TF binding sequence is the primary change, but there are indirect changes that affect gene expression in other ways.
+
+**Molecular causality of _trans_-eQTL** - genes that act in _trans_ tend to have a wider range of functions compared to _cis_-acting genes. **IRF7** is a good example. IRF7 is influenced by a local eQTL, but that _cis_-eQTL also associated with another set of genes in _trans_, and IRF7 influences those genes. Hence, altering the expression of IRF7 drives further expression changes. AND, IRF7 is also influences by a _trans_-eQTL in _EBI2_. _EBI2_ in turn has a few _cis_-eQTL affecting its expression. Only a few _trans_eQTL have been found in humans, but there will likely be more. **I like this as an example of the complexity. It's not linear.**
+
+There is a SNP that is associated with both differential expression of _MYC_ and a cancer, but the DE of _MYC_ is not associated with the cancer type. In this case, the differentiall expression is a determinant but not a cause of cancer. They did show that blond hair is caused by a _cis_-regulatory element (CRE) through altered gene regulation, which is pretty cool.
+
+**Shaping phenotype through gene expression** is not linear and depends on the environment. A decrease in expression and overexpression do not mirror each other in terms of phenotype and fitness of that phenotype. eQTL are also both condition dependent and condition independent, depending on the eQTL. Bascially, this is **complicated** and **there is no simple relationship between genetic variants and gene expression** though thinkinga bout it provides context for linking eQTL to traits.
+
+eQTLs can be hidden for a few reasons: tissue-type specific, cell-type specific, developmentally specific, low statistical power and small samples, environmental and growth condition specific. **There are many reasons to not find an eQTL.** The tissues matter, the cell types matter, the sample size matters. Everythign matters.
+
+Bayesian methods can help find what is relevant, and have been used to help, to generate new hypotheses... 
+
+The overall take-away is that this is complex, but finding was to study the genetic and molecular architecture to gene expression variation will be useful in identifying causal variants of disease. There are many unanswered questions: are expression levels themselves as polygenic as disease traits, or are they simple? How varied is the genetic architecture? What is the important of epistasis, and does the variance differ between gene expression and higher order traits? Is gene expression architecture plastic in different environments? 
+
+This is worth studying because genetic variation shapes gene expression shapes phenotypes. And here this will be useful for generating predictive models for personalized genomic medicine.
+
+**Key words for topics in the review but not in the summary:** allele specific expression (ASE), TF binding motifs, DNA shape, TF complexes, transcriptome to proteome correlation, CRE
+
+**Questions:**
+
+* stated that distant eQTLs have small effect size. Is this true across the board?
+* Is there a map of indels in maize? (I guess this would be the pangenome)
+* How many maize QTL fall outside of coding regions? Could they/have they been cross-referenced to eQTL?
+
+**Notes:**
+
+
+---
+
+## Genetics of global gene expression
+
+Rockman, M.V. and Kruglyak, L., 2006. Genetics of global gene expression. Nature Reviews Genetics, 7(11), pp.862-872.
+
+### Abstract
+A new field of genetic analysis of global gene expression has emerged in recent years, driven by the realization that traditional techniques of linkage and association analysis can be applied to thousands of transcript levels measured by microarrays. Genetic dissection of transcript abundance has shed light on the architecture of quantitative traits, provided a new approach for connecting DNA sequence variation with phenotypic variation, and improved our understanding of transcriptional regulation and regulatory variation.
+
+### Summary
+
 
 ---
 
@@ -117,14 +186,6 @@ not directly about gene expression
 
 ---
 
-## Genetics of global gene expression
-
-Rockman, M.V. and Kruglyak, L., 2006. Genetics of global gene expression. Nature Reviews Genetics, 7(11), pp.862-872.
-
-### Abstract
-A new field of genetic analysis of global gene expression has emerged in recent years, driven by the realization that traditional techniques of linkage and association analysis can be applied to thousands of transcript levels measured by microarrays. Genetic dissection of transcript abundance has shed light on the architecture of quantitative traits, provided a new approach for connecting DNA sequence variation with phenotypic variation, and improved our understanding of transcriptional regulation and regulatory variation.
-
----
 
 ## Evaluating the role of natural selection in the evolution of gene regulation
 
@@ -427,11 +488,4 @@ Smith, E.N. and Kruglyak, L., 2008. Gene–environment interaction in yeast gene
 ### Abstract
 The effects of genetic variants on phenotypic traits often depend on environmental and physiological conditions, but such gene–environment interactions are poorly understood. Recently developed approaches that treat transcript abundances of thousands of genes as quantitative traits offer the opportunity to broadly characterize the architecture of gene–environment interactions. We examined the genetic and molecular basis of variation in gene expression between two yeast strains (BY and RM) grown in two different conditions (glucose and ethanol as carbon sources). We observed that most transcripts vary by strain and condition, with 2,996, 3,448, and 2,037 transcripts showing significant strain, condition, and strain–condition interaction effects, respectively. We expression profiled over 100 segregants derived from a cross between BY and RM in both growth conditions, and identified 1,555 linkages for 1,382 transcripts that show significant gene–environment interaction. At the locus level, local linkages, which usually correspond to polymorphisms in cis-regulatory elements, tend to be more stable across conditions, such that they are more likely to show the same effect or the same direction of effect across conditions. Distant linkages, which usually correspond to polymorphisms influencing trans-acting factors, are more condition-dependent, and often show effects in different directions in the two conditions. We characterized a locus that influences expression of many growth-related transcripts, and showed that the majority of the variation is explained by polymorphism in the gene IRA2. The RM allele of IRA2 appears to inhibit Ras/PKA signaling more strongly than the BY allele, and has undergone a change in selective pressure. Our results provide a broad overview of the genetic architecture of gene–environment interactions, as well as a detailed molecular example, and lead to key insights into how the effects of different classes of regulatory variants are modulated by the environment. These observations will guide the design of studies aimed at understanding the genetic basis of complex traits.
 
----
 
-## The role of regulatory variation in complex traits and disease
-
-Albert, F.W. and Kruglyak, L., 2015. The role of regulatory variation in complex traits and disease. Nature Reviews Genetics, 16(4), pp.197-212.
-
-### Abstract
-We are in a phase of unprecedented progress in identifying genetic loci that cause variation in traits ranging from growth and fitness in simple organisms to disease in humans. However, a mechanistic understanding of how these loci influence traits is lacking for the majority of loci. Studies of the genetics of gene expression have emerged as a key tool for linking DNA sequence variation to phenotypes. Here, we review recent insights into the molecular nature of regulatory variants and describe their influence on the transcriptome and the proteome. We discuss conceptual advances from studies in model organisms and present examples of complete chains of causality that link individual polymorphisms to changes in gene expression, which in turn result in physiological changes and, ultimately, disease risk.
