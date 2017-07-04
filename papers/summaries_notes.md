@@ -123,9 +123,44 @@ This is worth studying because genetic variation shapes gene expression shapes p
 * stated that distant eQTLs have small effect size. Is this true across the board?
 * Is there a map of indels in maize? (I guess this would be the pangenome)
 * How many maize QTL fall outside of coding regions? Could they/have they been cross-referenced to eQTL?
+* I would like to go into more detail about the Bayesian methods in the _Analytical challenges and opportunities_ section
 
 **Notes:**
 
+* A key thing that stands out to me in this review is the build up to gene expression and causality, and how tenuous that link is. How often has there been clear evidence that differential gene expression led to a disease? Not that often, it turns out.
+  * MYC to cancer - SNP is associated with cancer, and associated with DE of MYC, but DE of MYC is not associated with cancer. It is a determinant, but does not prove that the SNP contributes to cancer risk via gene expression.
+  * _Kitl_ with CRE allele impacts mouse cout color and presumably human blond hair via altering gene regulation, though they don't go into details.
+  * _Irf7_ is influenced in _trans_ by a _cis_-acting eQTL in _Ebi2_, and _Irf7_ itself acts in _trans_ to another set of genes, though they didn't say that any of these genes are associated with disease (or what they are associated with at all)
+    * _Ebi2_ is a G protein-coupled receptor
+    * _Irf7_ is a interferon regulatory factor 7, which I have never heard of
+  * _LBC2_ expression + environmental effects mattered for fitness in yeast strains (Rest et al.)
+    * KO and reduced expression level lead to dramatic decrease in fitness
+    * BUT overexpression lead to not increase in fitness (minor effects)
+  * The reference examples: Ref 177 is a review
+  * SNP at 1p13, locus associated with risk of myocardial infarction (heart attack)
+    * located in 3' UTR of gene, but causal effect is that the minor SNP allele creates binding site for a TF commonly expressed in the liver. 
+    * this causes _SORT1_ gene, a gene ~40kb and two genes away, to be upregulated and reduced risk through other means.
+  *SNPs in introns of _FTO_ gene (fat mass and obesity-associated gene)
+    * causal varaints *might* act through expression levels, though unshown
+  * SNPs 500kb upstream of _IRX3_, a gene associated ith obesity
+    * expression of _IRX3_ in the cerebellum is associated with obesity
+    * KO of _IRX3_ causes leaner mice
+    * therefore, the expression of _IRX3_ may play a role in obesity 
+    * (also, here they specifically call out something tissue specific)
+
+* all of those examples are at distance, which is a little ironic since quite a bit of the paper was devoted to emphasizing that distant eQTLs are hard to detect and have small effect.
+
+![]("images/AlbertKruglyak_Fig1C.png")
+I think this is a really clear diagram of how _cis_ and _trans_ can work. Good to reference in the future, and potentially for eventual background slides for a general audience.
+
+* Overall, this paper is really useful as backgroun knowledge
+* Disease =/= local adaptation. Genetic disease is *presumably* not the result of a small effect, but a lot of what I saw in this paper indicates that perhaps it is.
+  * local adaptation is definitely small effect... mostly?
+* the non-linearity of how gene expression impacts the organism fitness is interesting, and a good starting model. It would be worth while to see who sites that paper, and look for higher organisms.
+* as always, the tissue and cell-type specificity kind of freaks me out.
+  * they state that you miss things if you're looking too generally
+  * so for local adaptation - if you're looking in the leaf tissue, are you looking for adaptation that occurs in the leaf only? Can you see the effects of adaptation (in gene expression) in the roots? This review indicates not, and that could be a problem.
+* As always, things are systems, and forms a complex network
 
 ---
 
