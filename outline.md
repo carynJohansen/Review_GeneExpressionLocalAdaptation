@@ -4,9 +4,10 @@
 
 Driving Question: How can gene expression be used to study local adaptation?
 
-Can study SNPs, but there is a lot of other points of regulation that can impact the final gene product. 
-Use eQTLs to narrow down causal sequence variation.
-What information does only looking at genetic sequence and/or morpholocial traits miss? How can gene expression bolster/support/supplement that information?
+Can study SNPs, but there is a lot of other points of regulation that can impact the final gene product.  
+Use eQTLs to narrow down causal sequence variation.  
+What information does only looking at genetic sequence and/or morpholocial traits miss?  
+How can gene expression bolster/support/supplement that information?
 
 ### Important Concepts to define
 
@@ -14,14 +15,15 @@ What information does only looking at genetic sequence and/or morpholocial trait
   * a population has higher fitness in it's local environment compared to another population
   * this increase in fitness comes at the cost of fitness in other environments
   * Savolainen et al.
-  *
 * gene expression (? maybe I don't need to define, but I think I do need to define the scope and what I am specifically discussing)
 
 ### Why study local adaptation at all?
 
 Species/populations are encountering novel environments, sometimes stressful
   * some species/populations have adapted to those new environments - morphological, phenology
+
 By better understanding the genetic mechanisms of this change, we can better _predict_ how species will change in certain environments.
+
 This is important to know for both agricultural systems, as humans breed or modify crops to meet both rising demand and stressful environments, and for biodiversity conservation of undomesticated flora and fauna.
 
 ## Sections
